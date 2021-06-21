@@ -1,0 +1,7 @@
+- Linear Search - Tìm kiếm tuần tự - O(n)
+- Binary Search - Tìm kiếm nhị phân trên mảng đã được sắp xếp - O log(n)
+- Đệ quy
+- Optimize
+    - Time Complexity
+    - Space Complexity
+- Session vs Cookie (local storage) - Cache
